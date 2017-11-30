@@ -7,4 +7,4 @@ RANDOM=$$$(date +%s)
 
 vybranahospoda=${hospody[$RANDOM % ${#hospody[@]} ]}
 
-echo Je čas na oběd, Zahoďte lopaty a běžte žrát do $vybranahospoda.
+echo Je čas na oběd, Zahoďte lopaty a běžte se nasvačit do $vybranahospoda.
