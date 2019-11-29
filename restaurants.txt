@@ -6,3 +6,5 @@ sklípku
 bláhy
 stejk hauzu
 plaudytu
+budvarky
+barvírny
